@@ -1,6 +1,4 @@
-Here's a documentation template for your Java Swing project based on the screenshot provided. You can fill in the specific details as needed.
 
----
 
 # Bus Ticketing System
 
@@ -77,6 +75,5 @@ The Bus Ticketing System is a Java Swing application designed to manage the book
 
 - **IDE:** NetBeans
 
----
 
-Make sure to replace placeholders like `[Your Name]`, `[Date of Creation]`, and `path/to/Screenshot-2024-07-13-222413.png` with actual information relevant to your project. You can also expand on the classes and methods section with more details if your project includes multiple classes and additional functionality.
+**VBR**
